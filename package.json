@@ -1,0 +1,12 @@
+{
+  "name": "sum-feedback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "dynamoose": "^0.8.7",
+    "node-uuid-generator": "^1.0.0"
+  },
+  "author": "Tamara Hills",
+  "license": "MPL-2.0"
+}
